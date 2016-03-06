@@ -1,0 +1,2 @@
+# ePaper
+Sangbaddiganta.org congration every one. We belive a great thing that publish news paper. This product 'sangbaddiganta' open publish online news paper_is not same to other. My project 'JKZyou' annaunce we are always together. Please help this epaper 'tree:454a7535bc,'to make web site title:sangbaddiganta, url,'http://www.sangbaddiganta.com/...,' permalink, 'https://github.com/sangbaddiganta,' help to manage_ like button, share button&amp;massage butten. Help to manage plug in &amp; web hook. Thank all of you
