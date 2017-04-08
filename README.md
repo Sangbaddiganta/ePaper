@@ -1,2 +1,37 @@
-# ePaper
-Sangbaddiganta.org congration every one. We belive a great thing that publish news paper. This product 'sangbaddiganta' open publish online news paper_is not same to other. My project 'JKZyou' annaunce we are always together. Please help this epaper 'tree:454a7535bc,'to make web site title:sangbaddiganta, url,'http://www.sangbaddiganta.com/...,' permalink, 'https://github.com/sangbaddiganta,' help to manage_ like button, share button&amp;massage butten. Help to manage plug in &amp; web hook. Thank all of you
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/Sangbaddiganta/ePaper/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sangbaddiganta/ePaper/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
